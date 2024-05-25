@@ -1,5 +1,4 @@
-# dijkstra-algorithm
-Implementasi Algoritma Dijkstra pada Python
+# Implementasi Algoritma Dijkstra pada Python
 
 Algoritma Dijkstra adalah algoritma serakah yang digunakan untuk menemukan jalur terpendek dari satu simpul sumber ke semua simpul lainnya dalam sebuah graf berbobot. Grafik dapat berarah atau tidak berarah, siklik atau asiklik, tetapi bobot pada semua sisinya harus nonnegatif.
 
